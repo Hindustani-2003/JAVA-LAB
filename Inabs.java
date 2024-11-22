@@ -1,62 +1,7 @@
 package Question3;
-//
-//import java.util.Scanner;
-//
-//interface operations{
-//	void sum();
-//	void average();
-//	void product();
-//	void largestandsmallest();
-//}
-//abstract class UseNumbers{
-//	protected int x,y,z;
-//	public void input() {
-//		Scanner sc=new Scanner(System.in);
-//		int x=sc.nextInt();
-//		int y=sc.nextInt();
-//		int z=sc.nextInt();
-//	}
-//	public abstract void display();
-//}
-//class user extends UseNumbers implements operations{
-//	public int sum () {
-//		int result_sum=x+y+z;
-//		return result_sum;
-//	}
-//	public double average() {
-//		double result_average=(x+y+z)/3;
-//		return result_average;
-//	}
-//	public int product() {
-//		int result_pro=x*y*z;
-//	    return result_pro;
-//	}
-//	public int largestandsmallest() {
-//	    if(x>y) {
-//		 return x;
-//	    }
-//	    else if(z>x) {
-//	    	return z;
-//	    	}
-//	}
-//	public void display() {
-//		System.out.println(sum());
-//		System.out.println(average());
-//		System.out.println(product());
-//		System.out.println(largestandsmallest());
-//		
-//		
-//	}
-//}
-//public class Inabs {
-//	public static void main(String []args) {
-//		 user u=new user();
-//		    u.input();
-//		    u.display();
-//	}
-//   
-//    
-//}
+
+
+
 import java.util.Scanner;
 interface MathOperations {
     int sum();
