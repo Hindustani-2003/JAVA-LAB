@@ -1,7 +1,5 @@
 package Question3;
 
-
-
 import java.util.Scanner;
 interface MathOperations {
     int sum();
