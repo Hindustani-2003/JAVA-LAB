@@ -1,7 +1,4 @@
-/*Q2) Write an application that asks user to enter two integer, obtain them from the
-user and display the larger number followed by the word "is larger". if the numbers
-are equal, print the" the number are equal". Path and Classpath Concept use in this
-Application.*/
+
 package Question2;
 
 import java.util.Scanner;
